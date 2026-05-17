@@ -272,9 +272,9 @@ a:hover{
 }
 @media (max-width: 1199px) {
   .header__logo{
-    padding-left: 11px;
-    padding-right: 19px;
-    margin-bottom: -11px;
+    padding-left: 9px;
+    padding-right: 0px;
+    margin-bottom: -13px;
     padding-bottom: 12px;
   }
   .header__logo img{
